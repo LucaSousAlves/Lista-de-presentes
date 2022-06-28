@@ -1,2 +1,2 @@
 # Lista-de-presentes
-Lista de chá de casa nova 
+Site com lista de presentes para um chá de casa nova.
